@@ -1,0 +1,25 @@
+.btn1{
+    width: 50%;
+    height: 60px;
+    border-radius: 20px; 
+    margin: 50px;     
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+}
+
+.btn2{
+    width: 50%;
+    height: 60px;
+    border-radius: 20px; 
+    margin: 50px;     
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+}
+
+.contenedor{   
+    display: flex; 
+    justify-content: center;
+    text-align: center;
+}

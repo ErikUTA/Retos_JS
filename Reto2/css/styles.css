@@ -1,0 +1,38 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    height: 100vh;    
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+    align-items: center;        
+}
+
+.bordes{
+    border-collapse: collapse;
+    border-width: 3px;
+    border-color: black;   
+    text-align: center;  
+    background: lightgray;      
+}
+
+.resultado{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.margen{
+    margin-top: 10px; 
+    margin-left: 10px; 
+    margin-right: 2px;
+}
+
+.margen2{
+    margin-top: 10px; 
+    margin-left: 2px; 
+    margin-right: 10px;
+}
